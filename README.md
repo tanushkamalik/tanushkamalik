@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Tanushka 
+I'm a passionate MCA student who loves building real-world applications, solving problems, and learning new technologies.  
+I aim to become a skilled Software Engineer and I enjoy working with modern tools and frameworks.
 
-<!--
-**tanushkamalik/tanushkamalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+### Languages:
+Java, Python, JavaScript 
+
+### Web Development:
+HTML, CSS, React.js, Node.js, Express.js  
+
+### **Databases:**  
+MySQL, MongoDB  
+
+### Tools & Technologies: 
+GitHub, VS Code
+
+---
+
+##  Projects  
+### Scalable Analytics for Real-Time Traffic, Detection, Prediction and Control
+
+### Mini Project - AWS 3-tier Architecture
+---
+
+## 📈 GitHub Stats  
+![Tanushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanushkamalik&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanushkamalik&layout=compact)
+
+---
+
+## 📬 Contact  
+ Email: tanushkamalik2418@gmail.com  
+ 
